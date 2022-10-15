@@ -2,8 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7e635d6-8434-407c-bc6f-90ea8fef31d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Music-Directors/a-r-rahman.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Music-Directors/anirudh-ravichander.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Music-Directors/d-imman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Music-Directors/devi-sri-prasad.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Music-Directors/g-v-prakash-kumar.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Music-Directors/ghibran.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Music-Directors/harris-jayaraj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Music-Directors/ilaiyaraaja.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Music-Directors/s-p-balasubrahmanyam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Music-Directors/s-thaman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Music-Directors/santhosh-narayanan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Music-Directors/vidya-sagar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Music-Directors/yuvan-shankar-raja.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamil/2021/Jai Bhim/Polladha-Ulagathiley.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Tamil/2021/Jai-Bhim/Polladha-Ulagathiley.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamil/2021/Jai Bhim/Power.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Tamil/2021/Jai-Bhim/Power.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamil/2021/Jai Bhim/Sendumalli.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Tamil/2021/Jai-Bhim/Sendumalli.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamil/2021/Jai Bhim/Thala-Kodhum.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Tamil/2021/Jai-Bhim/Thala-Kodhum.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamil/2021/Jai Bhim/Vettakaara-Kootam.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Tamil/2021/Jai-Bhim/Vettakaara-Kootam.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamil/2021/Jai Bhim/pollatha_ulagathile.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Tamil/2021/Jai-Bhim/pollatha_ulagathile.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamil/2021/Jai Bhim/poster.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tamil/2021/Jai-Bhim/poster.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamil/2021/Jai Bhim/power.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Tamil/2021/Jai-Bhim/power.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamil/2021/Jai Bhim/sendumalli.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Tamil/2021/Jai-Bhim/sendumalli.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamil/2021/Jai Bhim/thala-kodhum.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Tamil/2021/Jai-Bhim/thala-kodhum.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamil/2021/Jai Bhim/vettakaara-koottam.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tamil/2021/Jai-Bhim/vettakaara-koottam.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +82,25 @@
       <workItem from="1664022586529" duration="616000" />
       <workItem from="1664101865216" duration="850000" />
       <workItem from="1664165494154" duration="66000" />
-      <workItem from="1664211048650" duration="1617000" />
+      <workItem from="1664211048650" duration="2433000" />
+      <workItem from="1664252504873" duration="295000" />
+      <workItem from="1665875896225" duration="876000" />
     </task>
+    <task id="LOCAL-00001" summary="push">
+      <created>1664212795145</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664212795145</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&#10;push">
+      <created>1664212848853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664212848853</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +118,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="push" />
+    <MESSAGE value="&#10;push" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;push" />
   </component>
 </project>
